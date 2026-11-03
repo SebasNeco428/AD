@@ -7,6 +7,8 @@ import java.io.IOException;
 public class Ejercicios1_2_3_4 {
     static void main(String[] args) throws IOException {
         try {
+
+            // crear un fichero
             File fichero = new File("datos.txt");
             if (!fichero.exists()) {
                 fichero.createNewFile();
