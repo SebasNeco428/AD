@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acd584cd-d5a8-4bc6-ae81-70d7e3557c71" name="Changes" comment="Ejercicio5 y 6 finalizado">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hola.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alumnos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backup/datos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicios1_2_3_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccesoDatos/Tema01/Actividad01/Ejercicios/Ejercicios1_2_3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/Ejercicios1_2_3_4.java" afterDir="false" />
-    </list>
+    <list default="true" id="acd584cd-d5a8-4bc6-ae81-70d7e3557c71" name="Changes" comment="Ejercicio5 y 6 finalizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

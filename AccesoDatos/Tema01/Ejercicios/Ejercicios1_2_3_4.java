@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Ejercicios1_2_3_4 {
     static void main(String[] args) {
         try {
-            File fichero = new File("datos.txt");
+            File fichero = new File("Datos_Tema01/datos.txt");
             if (!fichero.exists()) {
                 fichero.createNewFile();
             }
@@ -22,18 +22,18 @@ public class Ejercicios1_2_3_4 {
             System.out.println("Si se puede leer: " + ficheroInfo.canRead());
             System.out.println("Si se puede escribir: " + ficheroInfo.canWrite());
 
-            File directorio = new File("backup");
+            File directorio = new File("Datos_Tema01/backup");
             if (!directorio.exists()) {
                 directorio.mkdir();
             }
             if (directorio.exists()) {
                 System.out.println("El directorio backup existe correctamente.");
             }
-            File ficheroMover = new File("datos.txt");
-            File ficheroDestino = new File("backup/datos.txt");
+            File ficheroMover = new File("Datos_Tema01/datos.txt");
+            File ficheroDestino = new File("Datos_Tema01/backup/datos.txt");
             ficheroMover.renameTo(ficheroDestino);
 
-            FileWriter escritor = new FileWriter("alumnos.txt");
+            FileWriter escritor = new FileWriter("Datos_Tema01/alumnos.txt");
             escritor.write("Juan\n");
             escritor.write("María\n");
             escritor.write("Pedro\n");
