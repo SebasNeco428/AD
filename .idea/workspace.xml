@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3df09312-a924-46ce-a3ff-4fd72c029213" name="Changes" comment="" />
+    <list default="true" id="acd584cd-d5a8-4bc6-ae81-70d7e3557c71" name="Changes" comment="Ejercicio5 y 6 finalizado">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hola.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alumnos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup/datos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicios1_2_3_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccesoDatos/Tema01/Actividad01/Ejercicios/Ejercicios1_2_3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/Ejercicios1_2_3_4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,15 +35,19 @@
   "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="3Lb6SVOARIlhcXh8evdD0yS8SZa" />
+  <component name="ProjectId" id="3LbEHlj9LwNwUWAAluQ24ONFfue" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ejercicio5_6.executor": "Run",
+    "Application.Ejercicios1.executor": "Run",
+    "Application.Ejercicios1_2_3_4.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -41,11 +56,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/sebas/Desktop/AD/Tema01/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -58,26 +69,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3df09312-a924-46ce-a3ff-4fd72c029213" name="Changes" comment="" />
-      <created>1793710421333</created>
+      <changelist id="acd584cd-d5a8-4bc6-ae81-70d7e3557c71" name="Changes" comment="" />
+      <created>1793714282973</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1793710421333</updated>
+      <updated>1793714282973</updated>
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tema01/src/Main.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicio5 y 6 finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio5 y 6 finalizado" />
   </component>
 </project>

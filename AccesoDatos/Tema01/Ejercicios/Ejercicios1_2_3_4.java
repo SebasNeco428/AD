@@ -1,14 +1,12 @@
-package Actividad01.Ejercicios;
+package Ejercicios;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
 public class Ejercicios1_2_3_4 {
-    static void main(String[] args) throws IOException {
+    static void main(String[] args) {
         try {
-
-            // crear un fichero
             File fichero = new File("datos.txt");
             if (!fichero.exists()) {
                 fichero.createNewFile();
@@ -16,7 +14,6 @@ public class Ejercicios1_2_3_4 {
             System.out.println("Nombre del fichero: " + fichero.getName());
 
             File ficheroInfo = new File("datos.txt");
-
             System.out.println("Nombre: " + ficheroInfo.getName());
             System.out.println("Ruta: " + ficheroInfo.getPath());
             System.out.println("Ruta absoluta: " + ficheroInfo.getAbsolutePath());
@@ -43,8 +40,9 @@ public class Ejercicios1_2_3_4 {
             escritor.write("Ana\n");
             escritor.close();
 
+
         } catch (Exception e) {
-            System.out.println("Eroor :" + e.getMessage());
+            System.out.println("Error : " + e.getMessage());
         }
     }
 }
