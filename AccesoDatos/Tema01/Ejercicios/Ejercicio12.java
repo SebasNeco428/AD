@@ -3,9 +3,10 @@ package Ejercicios;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.IOException;
 
-public class Ejercicio11 {
-    static void main(String[] args) {
+public class Ejercicio12 {
+    static void main(String[] args) throws IOException {
         try {
             File fichero = new File("Datos_Tema01/ficheros.txt");
             if (!fichero.exists()) {
@@ -23,8 +24,31 @@ public class Ejercicio11 {
             fw.write("Juab\nAna\nPedro\nLaura");
             fw.close();
 
-            FileReader fr = new FileReader()
+            FileReader fr = new FileReader(fichero);
+            int codigo = fr.read();
+            char caracter = (char) codigo;
+            System.out.println("El primer caracter es :" + caracter);
 
+            File directorio = new File("Datos_tema01/backup2");
+            if (!directorio.exists()){
+                directorio.mkdir();
+            }
+
+            File fileOrigen = new File("Datos_Tema01/ficheros.txt");
+            File fileDestino = new File("Datos_Tema01/backup2/ficheros.txt");
+
+            if (fileOrigen.exists()) {
+                boolean mv = fichero.renameTo(fileDestino);
+                if (mv) {
+                    System.out.println("Fichero movido con exito");
+                } else {
+                    System.out.println("no se pudo mover");
+                }
+            } else {
+                System.out.println("El archivo a moverse no existe");
+            }
+
+            System.out.println("Ultima modificacion :" + fichero.lastModified());
 
         } catch (Exception e) {
             throw new RuntimeException(e);
