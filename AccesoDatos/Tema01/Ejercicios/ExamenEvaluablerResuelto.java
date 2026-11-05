@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 
-public class Ejercicio9 {
+public class ExamenEvaluablerResuelto {
     static void main() {
         try {
             File fichero = new File("Datos_Tema01/alumnos.txt");
