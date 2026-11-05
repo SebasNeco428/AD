@@ -7,7 +7,7 @@ import java.io.RandomAccessFile;
 public class Ejercicio11 {
     static void main(String[] args) {
         try {
-
+            //Creamos el fichero
             File fichero = new File("Datos_Tema01/fichero.txt");
 
             FileWriter fw = new FileWriter(fichero);
