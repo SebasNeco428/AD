@@ -8,7 +8,7 @@ public class Ejercicios1_2_3_4 {
     static void main(String[] args) {
         try {
             //Fichero si no existe
-            
+
             File fichero = new File("Datos_Tema01/datos.txt");
             if (!fichero.exists()) {
                 fichero.createNewFile();
