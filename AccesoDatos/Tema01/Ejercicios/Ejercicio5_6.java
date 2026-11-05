@@ -7,7 +7,7 @@ import java.io.FileWriter;
 public class Ejercicio5_6 {
     static void main(String[] args) {
         try {
-            // Asegúrate de haber creado previamente el fichero "mensaje.txt" con la palabra "Hola"
+            // Asegúrate de haber creado previamente el fichero "mensaje.txt" con la palabra "Hola".
             File fichero = new File("mensaje.txt");
             if (!fichero.exists()) {
                 fichero.createNewFile();
