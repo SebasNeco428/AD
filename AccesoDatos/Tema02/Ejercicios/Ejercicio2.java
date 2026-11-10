@@ -4,6 +4,7 @@ import java.io.*;
 
 public class Ejercicio2 {
     // Variables globales para las estadísticas compartidas (o controladas)
+
     static long caracteresProcesados = 0;
     static long lineasProcesadas = 0;
 
