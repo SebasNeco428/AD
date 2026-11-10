@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd584cd-d5a8-4bc6-ae81-70d7e3557c71" name="Changes" comment="Ejercicio5 y 6 finalizado">
-      <change beforePath="$PROJECT_DIR$/.idea/AD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccesoDatos/Tema02/Ejercicios/Ejercicio2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/Ejercicio11.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/Ejercicio11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/Ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/Ejercicio12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/ExamenEvaluablerResuelto.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoDatos/Tema01/Ejercicios/ExamenEvaluablerResuelto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AccesoDatos/Tema02/Ejercicios/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoDatos/Tema02/Ejercicios/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datos_Tema01/alumnos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Datos_Tema01/alumnos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio5_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicios1_2_3_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicios7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/ExamenEvaluablerResuelto.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
