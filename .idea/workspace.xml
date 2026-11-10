@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd584cd-d5a8-4bc6-ae81-70d7e3557c71" name="Changes" comment="Ejercicio5 y 6 finalizado">
-      <change afterPath="$PROJECT_DIR$/AccesoDatos/Tema02/Ejercicios/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AD.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccesoDatos/Tema02/Ejercicios/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccesoDatos/Tema02/Ejercicios/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio5_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicio9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicios1_2_3_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/Ejercicios7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AD/Ejercicios/ExamenEvaluablerResuelto.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,37 +44,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Ejercicio10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio5_6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicio9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicios1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicios1_2_3_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ejercicios7_8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExamenEvaluablerResuelto.executor&quot;: &quot;Run&quot;,
-    &quot;Application.resuleto.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ejercicio10.executor": "Run",
+    "Application.Ejercicio12.executor": "Run",
+    "Application.Ejercicio5_6.executor": "Run",
+    "Application.Ejercicio8.executor": "Run",
+    "Application.Ejercicio9.executor": "Run",
+    "Application.Ejercicios1.executor": "Run",
+    "Application.Ejercicios1_2_3_4.executor": "Run",
+    "Application.Ejercicios7_8.executor": "Run",
+    "Application.ExamenEvaluablerResuelto.executor": "Run",
+    "Application.resuleto.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Ejercicio12">
     <configuration name="Ejercicio10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.Ejercicio10" />
