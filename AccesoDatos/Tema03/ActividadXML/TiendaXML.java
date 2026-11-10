@@ -14,6 +14,7 @@ public class TiendaXML {
 
     public Document cargarXML() throws Exception {
 
+        
         File archivo = new File("tienda.xml");
 
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
