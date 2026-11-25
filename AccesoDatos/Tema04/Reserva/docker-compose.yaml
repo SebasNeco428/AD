@@ -1,0 +1,18 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: medac_reservas_pg
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: reservas
+      POSTGRES_USER: alumno
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-alumno123}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata_reservas:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+
+volumes:
+  pgdata_reservas:
+  
